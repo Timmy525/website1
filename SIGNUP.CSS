@@ -1,0 +1,48 @@
+.acc{
+    color: rgb(7, 7, 7);
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ .form{
+    width: 520px;
+    height: 400px;
+    position: absolute;
+    top: 70px;
+    left: 350px;
+    background-color: rgb(255, 254, 254);
+    border-radius: 20px;
+    padding: 30px;
+   border: 3px solid black;
+}
+
+.form h1{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(3, 3, 3);
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+    width: 460px;
+}.form input{
+    background-color:rgb(253, 251, 251);
+    margin: 5px;
+    height: 40px;
+    border-radius: 10px;
+    width: 350px; 
+    color: rgb(7, 7, 7);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: darkorange;
+    font-size:15px;
+    letter-spacing:1px;
+    
+   
+}
+
+form{
+    padding-left: 80px;
+}
